@@ -1,5 +1,26 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": [] 
+  "users": [
+    {
+      "name": "Mr. Darren Cartwright MD",
+      "id": 1
+    },
+    {
+      "name": "Hubert McKenzie",
+      "id": 4
+    },
+    {
+      "name": "Jerome Thiel",
+      "id": 5
+    },
+    {
+      "name": "Grady Lehner",
+      "id": 6
+    },
+    {
+      "name": "Brenda Keebler",
+      "id": 7
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
