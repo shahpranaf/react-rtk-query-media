@@ -21,6 +21,80 @@
       "id": 7
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "title": "Generic Frozen Pants",
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "title": "Handmade Steel Keyboard",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "title": "Rustic Bronze Chicken",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "title": "Luxurious Cotton Tuna",
+      "id": 9
+    },
+    {
+      "title": "Electronic Concrete Table",
+      "id": 10
+    },
+    {
+      "title": "Intelligent Bronze Keyboard",
+      "id": 11
+    },
+    {
+      "title": "Recycled Plastic Bacon",
+      "userId": 1,
+      "id": 12
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1915864781684736",
+      "id": 3
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=724211471482880",
+      "id": 6
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6088742758514688",
+      "id": 7
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7012773070372864",
+      "id": 8
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5801915025719296",
+      "id": 9
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2572146905710592",
+      "id": 10
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8152901069307904",
+      "id": 11
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1427993832456192",
+      "id": 13
+    }
+  ]
 }

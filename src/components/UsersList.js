@@ -20,9 +20,9 @@ function UsersList() {
     doCreateUser();
   }
 
-  if (isLoadingUsers) {
-    return <Skeleton times={6} className="h-10 w-full" />
-  }
+  // if (isLoadingUsers) {
+  //   return <Skeleton times={6} className="h-10 w-full" />
+  // }
 
   const renderUsers = () => {
 
