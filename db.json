@@ -96,5 +96,19 @@
       "url": "https://loremflickr.com/150/150/abstract?lock=1427993832456192",
       "id": 13
     }
+  ],
+   "books": [
+    {
+      "title": "Harry Pottar Part 1",
+      "id": 1
+    },
+    {
+      "title": "Harry Porter",
+      "id": 2
+    },
+    {
+      "title": "The Ghost Stories of Shimla Hills",
+      "id": 3
+    }
   ]
 }
